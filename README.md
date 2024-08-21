@@ -53,10 +53,3 @@ You will be prompted to enter:
 
 These parameters allow you to simulate different cache configurations and observe how changes affect cache behavior.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request with a clear description of what your changes do.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
